@@ -1,0 +1,28 @@
+{
+  "name": "@bruit/types",
+  "version": "0.1.1",
+  "description": "bruit typings",
+  "private": false,
+  "main": "typings/typings.d.ts",
+  "types": "typings/typings.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moventes/bruit.io-types.git"
+  },
+  "keywords": [
+    "typescript",
+    "typings"
+  ],
+  "author": {
+    "name": "moventes",
+    "email": "dev@moventes.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moventes/bruit.io-types/issues"
+  },
+  "homepage": "https://github.com/Moventes/bruit.io-types#readme"
+}
