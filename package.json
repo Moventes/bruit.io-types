@@ -4,6 +4,9 @@
   "description": "bruit typings",
   "private": false,
   "types": "typings/typings.d.ts",
+  "files": [
+    "typings/typings.d.ts"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
