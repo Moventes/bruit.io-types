@@ -1,6 +1,6 @@
 {
   "name": "@bruit/types",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "bruit typings",
   "private": false,
   "types": "typings/typings.d.ts",
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/Moventes/bruit.io-types#readme",
   "dependencies": {
+    "@firebase/app-types": "^0.3.2",
     "@firebase/firestore-types": "^0.7.0"
   }
 }
