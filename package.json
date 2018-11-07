@@ -1,11 +1,30 @@
 {
   "name": "@bruit/types",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "bruit typings",
   "private": false,
   "types": "typings/typings.d.ts",
   "files": [
-    "typings/typings.d.ts"
+    "typings/typings.d.ts",
+    "./enums/brt-field-type",
+    "./enums/brt-key-type",
+    "./enums/brt-field-type",
+    "./enums/brt-tool-type",
+    "./interfaces/brt-account",
+    "./interfaces/brt-colors",
+    "./interfaces/brt-config",
+    "./interfaces/brt-error",
+    "./interfaces/brt-field",
+    "./interfaces/brt-labels",
+    "./interfaces/brt-log-levels",
+    "./interfaces/brt-data",
+    "./interfaces/brt-cookies",
+    "./interfaces/brt-feedback",
+    "./interfaces/brt-log",
+    "./interfaces/brt-navigator-info",
+    "./interfaces/brt-project",
+    "./interfaces/brt-screen-info",
+    "./interfaces/brt-target"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
