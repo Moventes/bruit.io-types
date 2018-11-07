@@ -3,7 +3,6 @@
   "version": "0.1.2",
   "description": "bruit typings",
   "private": false,
-  "main": "typings/typings.d.ts",
   "types": "typings/typings.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
