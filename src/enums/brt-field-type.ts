@@ -1,6 +1,6 @@
 export enum BrtFieldType {
-  TEXT = 'text',
-  TEXTAREA = 'textarea',
-  EMAIL = 'email',
-  CHECKBOK = 'checkbox',
+  TEXT = 'BRTFIELDTYPE.TEXT',
+  TEXTAREA = 'BRTFIELDTYPE.TEXTAREA',
+  EMAIL = 'BRTFIELDTYPE.EMAIL',
+  CHECKBOK = 'BRTFIELDTYPE.CHECKBOX',
 }

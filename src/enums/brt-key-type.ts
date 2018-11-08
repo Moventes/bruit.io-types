@@ -1,4 +1,4 @@
 export enum BrtKeyType {
-  API = 'api',
-  PRIVATE = 'private',
+  API = 'BRTKEYTYPE.API',
+  PRIVATE = 'BRTKEYTYPE.PRIVATE',
 }
