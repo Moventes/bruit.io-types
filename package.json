@@ -1,10 +1,13 @@
 {
   "name": "@bruit/types",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Bruit.io typings",
   "private": false,
-  "types": "typings/typings.d.ts",
-  "main": "index.js",
+  "types": "dist/index.d.ts",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Moventes/bruit.io-types.git"
@@ -25,5 +28,8 @@
   "dependencies": {
     "@firebase/app-types": "^0.3.2",
     "@firebase/firestore-types": "^0.7.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.6"
   }
 }
