@@ -10,4 +10,7 @@ var BrtToolId;
     BrtToolId["TRELLO"] = "BRTTOOLID.TRELLO";
     BrtToolId["USER"] = "BRTTOOLID.USER";
     BrtToolId["ZOHOBT"] = "BRTTOOLID.ZOHOBT";
+    BrtToolId["SLACK"] = "BRTTOOLID.SLACK";
+    BrtToolId["ASANA"] = "BRTTOOLID.ASANA";
+    BrtToolId["BASECAMP"] = "BRTTOOLID.BASECAMP";
 })(BrtToolId = exports.BrtToolId || (exports.BrtToolId = {}));
