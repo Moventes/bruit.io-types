@@ -1,4 +1,4 @@
 export declare enum BrtToolType {
-    email = "email",
-    api = "api"
+    EMAIL = "BRTTOOLTYPE.EMAIL",
+    API = "BRTTOOLTYPE.API"
 }

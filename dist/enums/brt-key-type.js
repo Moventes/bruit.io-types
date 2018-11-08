@@ -2,6 +2,6 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var BrtKeyType;
 (function (BrtKeyType) {
-    BrtKeyType["api"] = "api";
-    BrtKeyType["private"] = "private";
+    BrtKeyType["API"] = "BRTKEYTYPE.API";
+    BrtKeyType["PRIVATE"] = "BRTKEYTYPE.PRIVATE";
 })(BrtKeyType = exports.BrtKeyType || (exports.BrtKeyType = {}));

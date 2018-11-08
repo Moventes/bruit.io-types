@@ -2,8 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var BrtFieldType;
 (function (BrtFieldType) {
-    BrtFieldType["text"] = "text";
-    BrtFieldType["textarea"] = "textarea";
-    BrtFieldType["email"] = "email";
-    BrtFieldType["checkbok"] = "checkbox";
+    BrtFieldType["TEXT"] = "BRTFIELDTYPE.TEXT";
+    BrtFieldType["TEXTAREA"] = "BRTFIELDTYPE.TEXTAREA";
+    BrtFieldType["EMAIL"] = "BRTFIELDTYPE.EMAIL";
+    BrtFieldType["CHECKBOK"] = "BRTFIELDTYPE.CHECKBOX";
 })(BrtFieldType = exports.BrtFieldType || (exports.BrtFieldType = {}));

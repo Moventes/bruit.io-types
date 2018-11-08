@@ -2,12 +2,12 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var BrtToolId;
 (function (BrtToolId) {
-    BrtToolId["bugzilla"] = "bugzilla";
-    BrtToolId["github"] = "github";
-    BrtToolId["gitlab"] = "gitlab";
-    BrtToolId["jira"] = "jira";
-    BrtToolId["mantis"] = "mantis";
-    BrtToolId["trello"] = "trello";
-    BrtToolId["user"] = "user";
-    BrtToolId["zohobt"] = "zohobt";
+    BrtToolId["BUGZILLA"] = "BRTTOOLID.BUGZILLA";
+    BrtToolId["GITHUB"] = "BRTTOOLID.GITHUB";
+    BrtToolId["GITLAB"] = "BRTTOOLID.GITLAB";
+    BrtToolId["JIRA"] = "BRTTOOLID.JIRA";
+    BrtToolId["MANTIS"] = "BRTTOOLID.MANTIS";
+    BrtToolId["TRELLO"] = "BRTTOOLID.TRELLO";
+    BrtToolId["USER"] = "BRTTOOLID.USER";
+    BrtToolId["ZOHOBT"] = "BRTTOOLID.ZOHOBT";
 })(BrtToolId = exports.BrtToolId || (exports.BrtToolId = {}));

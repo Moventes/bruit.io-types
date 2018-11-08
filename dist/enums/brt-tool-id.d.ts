@@ -1,10 +1,10 @@
 export declare enum BrtToolId {
-    bugzilla = "bugzilla",
-    github = "github",
-    gitlab = "gitlab",
-    jira = "jira",
-    mantis = "mantis",
-    trello = "trello",
-    user = "user",
-    zohobt = "zohobt"
+    BUGZILLA = "BRTTOOLID.BUGZILLA",
+    GITHUB = "BRTTOOLID.GITHUB",
+    GITLAB = "BRTTOOLID.GITLAB",
+    JIRA = "BRTTOOLID.JIRA",
+    MANTIS = "BRTTOOLID.MANTIS",
+    TRELLO = "BRTTOOLID.TRELLO",
+    USER = "BRTTOOLID.USER",
+    ZOHOBT = "BRTTOOLID.ZOHOBT"
 }
