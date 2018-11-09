@@ -5,5 +5,5 @@ var BrtFieldType;
     BrtFieldType["TEXT"] = "BRTFIELDTYPE.TEXT";
     BrtFieldType["TEXTAREA"] = "BRTFIELDTYPE.TEXTAREA";
     BrtFieldType["EMAIL"] = "BRTFIELDTYPE.EMAIL";
-    BrtFieldType["CHECKBOK"] = "BRTFIELDTYPE.CHECKBOX";
+    BrtFieldType["CHECKBOX"] = "BRTFIELDTYPE.CHECKBOX";
 })(BrtFieldType = exports.BrtFieldType || (exports.BrtFieldType = {}));
