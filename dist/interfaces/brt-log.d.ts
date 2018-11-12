@@ -1,5 +1,6 @@
+import { BrtLogType } from './../enums/brt-log-type';
 export interface BrtLog {
-    type: string;
+    type: BrtLogType;
     timestamp: Date;
     arguments: Array<any>;
 }

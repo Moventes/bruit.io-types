@@ -2,15 +2,15 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 var BrtToolId;
 (function (BrtToolId) {
-    BrtToolId["BUGZILLA"] = "BRTTOOLID.BUGZILLA";
-    BrtToolId["GITHUB"] = "BRTTOOLID.GITHUB";
-    BrtToolId["GITLAB"] = "BRTTOOLID.GITLAB";
-    BrtToolId["JIRA"] = "BRTTOOLID.JIRA";
-    BrtToolId["MANTIS"] = "BRTTOOLID.MANTIS";
-    BrtToolId["TRELLO"] = "BRTTOOLID.TRELLO";
-    BrtToolId["USER"] = "BRTTOOLID.USER";
-    BrtToolId["ZOHOBT"] = "BRTTOOLID.ZOHOBT";
-    BrtToolId["SLACK"] = "BRTTOOLID.SLACK";
-    BrtToolId["ASANA"] = "BRTTOOLID.ASANA";
-    BrtToolId["BASECAMP"] = "BRTTOOLID.BASECAMP";
+    BrtToolId["BUGZILLA"] = "bugzilla";
+    BrtToolId["GITHUB"] = "github";
+    BrtToolId["GITLAB"] = "gitlab";
+    BrtToolId["JIRA"] = "jira";
+    BrtToolId["MANTIS"] = "mantis";
+    BrtToolId["TRELLO"] = "trello";
+    BrtToolId["USER"] = "user";
+    BrtToolId["ZOHOBT"] = "zohobt";
+    BrtToolId["SLACK"] = "slack";
+    BrtToolId["ASANA"] = "asana";
+    BrtToolId["BASECAMP"] = "basecamp";
 })(BrtToolId = exports.BrtToolId || (exports.BrtToolId = {}));
