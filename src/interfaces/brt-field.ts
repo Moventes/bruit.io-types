@@ -1,4 +1,4 @@
-import { BrtFieldType } from 'enums/brt-field-type';
+import { BrtFieldType } from './../enums/brt-field-type';
 
 export interface BrtField {
   id?: string;
