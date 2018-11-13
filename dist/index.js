@@ -8,3 +8,7 @@ __export(require("./enums/brt-key-type"));
 __export(require("./enums/brt-log-type"));
 __export(require("./enums/brt-tool-id"));
 __export(require("./enums/brt-tool-type"));
+__export(require("./enums/brt-field-type"));
+__export(require("./enums/brt-key-type"));
+__export(require("./enums/brt-tool-id"));
+__export(require("./enums/brt-tool-type"));

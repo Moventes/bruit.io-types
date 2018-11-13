@@ -18,3 +18,7 @@ export * from './interfaces/brt-navigator-info';
 export * from './interfaces/brt-project';
 export * from './interfaces/brt-screen-info';
 export * from './interfaces/brt-target';
+export * from './enums/brt-field-type';
+export * from './enums/brt-key-type';
+export * from './enums/brt-tool-id';
+export * from './enums/brt-tool-type';
