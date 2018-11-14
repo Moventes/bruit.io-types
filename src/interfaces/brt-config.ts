@@ -4,7 +4,7 @@ import { BrtLogLevels } from './brt-log-levels';
 import { BrtField } from './brt-field';
 
 export interface BrtConfig {
-  apiKey: string;
+  apiKey?: string;
   form: Array<BrtField>;
 
   labels?: BrtLabels;
