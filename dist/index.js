@@ -9,4 +9,4 @@ __export(require("./enums/brt-log-type"));
 __export(require("./enums/brt-tool-id"));
 __export(require("./enums/brt-tool-type"));
 __export(require("./enums/brt-log-http-type"));
-__export(require("./enums/http-request"));
+__export(require("./enums/brt-http-request"));

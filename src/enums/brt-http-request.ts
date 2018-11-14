@@ -1,4 +1,4 @@
-export enum HttpRequest {
+export enum BrtHttpRequest {
   GET = 'GET',
   POST = 'POST',
   PUT = 'PUT',

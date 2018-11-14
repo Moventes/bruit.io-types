@@ -1,9 +1,9 @@
-import { HttpRequest } from './../enums/http-request';
+import { BrtHttpRequest } from '../enums/brt-http-request';
 import { BrtLogHttpType } from './../enums/brt-log-http-type';
 export interface BrtLogHttp {
     type: BrtLogHttpType;
     timestamp: Date;
-    method: HttpRequest;
+    method: BrtHttpRequest;
     url: string;
     body?: any;
     headers?: any;
