@@ -1,10 +1,10 @@
 export * from './enums/brt-field-type';
+export * from './enums/brt-http-request';
 export * from './enums/brt-key-type';
 export * from './enums/brt-log-type';
+export * from './enums/brt-log-http-type';
 export * from './enums/brt-tool-id';
 export * from './enums/brt-tool-type';
-export * from './enums/brt-log-http-type';
-export * from './enums/brt-http-request';
 
 export * from './interfaces/brt-account';
 export * from './interfaces/brt-click-log-arg';
