@@ -1,4 +1,4 @@
 export enum BrtToolType {
   EMAIL = 'email',
-  API = 'api',
+  API = 'api'
 }
