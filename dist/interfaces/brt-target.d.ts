@@ -4,6 +4,7 @@ export interface BrtTarget {
     toolId: BrtToolId;
     toolType: BrtToolType;
     apiKey?: string;
+    apiUrl?: string;
     email?: string;
     labels?: Array<string>;
 }
