@@ -23,8 +23,5 @@ export * from './interfaces/brt-navigator-info';
 export * from './interfaces/brt-project';
 export * from './interfaces/brt-screen-info';
 export * from './interfaces/brt-target';
-<<<<<<< HEAD
 export * from './interfaces/brt-token';
-=======
 export * from './interfaces/brt-log-http';
->>>>>>> master
