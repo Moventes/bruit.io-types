@@ -5,3 +5,5 @@ export enum BrtFieldType {
   CHECKBOX = 'checkbox',
   RATING = 'rating'
 }
+
+// impact brtField interface if you edit this enum
