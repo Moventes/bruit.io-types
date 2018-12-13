@@ -5,5 +5,6 @@ export interface BrtAccount {
   projects?: Array<DocumentReference>;
   ownerEmail?: string;
   premium: boolean;
-  tokens?: { [toolId: string]: BrtToken }
+  jsonWebToken: string;
+  tokens?: { [toolId: string]: BrtToken };
 }
