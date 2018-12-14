@@ -7,4 +7,5 @@ export interface BrtTarget {
     apiEndPoint?: string;
     email?: string;
     labels?: Array<string>;
+    attachmentsEndPoint?: string;
 }
