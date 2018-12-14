@@ -1,0 +1,21 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+var BrtPermissionName;
+(function (BrtPermissionName) {
+    BrtPermissionName["ACCELEROMETER"] = "accelerometer";
+    BrtPermissionName["ACCESSIBILITY_EVENTS"] = "accessibility-events";
+    BrtPermissionName["AMBIENT_LIGHT_SENSOR"] = "ambient-light-sensor";
+    BrtPermissionName["BACKGROUND_SYNC"] = "background-sync";
+    BrtPermissionName["CAMERA"] = "camera";
+    BrtPermissionName["CLIPBOARD_READ"] = "clipboard-read";
+    BrtPermissionName["CLIPBOARD_WRITE"] = "clipboard-write";
+    BrtPermissionName["GEOLOCATION"] = "geolocation";
+    BrtPermissionName["GYROSCOPE"] = "gyroscope";
+    BrtPermissionName["MAGNETOMETER"] = "magnetometer";
+    BrtPermissionName["MICROPHONE"] = "microphone";
+    BrtPermissionName["MIDI"] = "midi";
+    BrtPermissionName["NOTIFICATIONS"] = "notifications";
+    BrtPermissionName["PAYMENT_HANDLER"] = "payment-handler";
+    BrtPermissionName["PERSISTENT_STORAGE"] = "persistent-storage";
+    BrtPermissionName["PUSH"] = "push";
+})(BrtPermissionName = exports.BrtPermissionName || (exports.BrtPermissionName = {}));
