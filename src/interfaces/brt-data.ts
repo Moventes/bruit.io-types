@@ -3,4 +3,5 @@ export interface BrtData {
   type?: string;
   value: any;
   id?: string;
+  max?: number;
 }
