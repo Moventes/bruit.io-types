@@ -5,6 +5,8 @@ export * from './enums/brt-log-type';
 export * from './enums/brt-log-http-type';
 export * from './enums/brt-tool-id';
 export * from './enums/brt-tool-type';
+export * from './enums/brt-permission-name';
+export * from './enums/brt-permission-status';
 
 export * from './interfaces/brt-account';
 export * from './interfaces/brt-click-log-arg';
@@ -24,3 +26,4 @@ export * from './interfaces/brt-project';
 export * from './interfaces/brt-screen-info';
 export * from './interfaces/brt-target';
 export * from './interfaces/brt-log-http';
+export * from './interfaces/brt-permissions';
