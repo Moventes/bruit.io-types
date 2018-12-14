@@ -10,3 +10,5 @@ __export(require("./enums/brt-log-type"));
 __export(require("./enums/brt-log-http-type"));
 __export(require("./enums/brt-tool-id"));
 __export(require("./enums/brt-tool-type"));
+__export(require("./enums/brt-permission-name"));
+__export(require("./enums/brt-permission-status"));
