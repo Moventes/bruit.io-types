@@ -32,3 +32,5 @@ export * from './interfaces/brt-log-http';
 export * from './interfaces/brt-permissions';
 export * from './interfaces/brt-storage-estimate';
 export * from './interfaces/brt-network';
+export * from './interfaces/brt-service-worker';
+export * from './interfaces/brt-service-worker-state';
