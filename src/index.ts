@@ -7,6 +7,8 @@ export * from './enums/brt-tool-id';
 export * from './enums/brt-tool-type';
 export * from './enums/brt-permission-name';
 export * from './enums/brt-permission-status';
+export * from './enums/brt-effective-type';
+export * from './enums/brt-connection-type';
 
 export * from './interfaces/brt-account';
 export * from './interfaces/brt-click-log-arg';
@@ -28,3 +30,5 @@ export * from './interfaces/brt-target';
 export * from './interfaces/brt-token';
 export * from './interfaces/brt-log-http';
 export * from './interfaces/brt-permissions';
+export * from './interfaces/brt-storage-estimate';
+export * from './interfaces/brt-network';

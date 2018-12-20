@@ -12,3 +12,5 @@ __export(require("./enums/brt-tool-id"));
 __export(require("./enums/brt-tool-type"));
 __export(require("./enums/brt-permission-name"));
 __export(require("./enums/brt-permission-status"));
+__export(require("./enums/brt-effective-type"));
+__export(require("./enums/brt-connection-type"));
