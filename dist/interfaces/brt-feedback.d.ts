@@ -1,10 +1,11 @@
-import { BrtData } from './brt-data';
-import { BrtNavigatorInfo } from './brt-navigator-info';
-import { BrtScreenInfo } from './brt-screen-info';
-import { BrtCookies } from './brt-cookies';
-import { BrtLog } from './brt-log';
-import { BrtServiceWorker } from './brt-service-worker';
+import { BrtData } from "./brt-data";
+import { BrtNavigatorInfo } from "./brt-navigator-info";
+import { BrtScreenInfo } from "./brt-screen-info";
+import { BrtCookies } from "./brt-cookies";
+import { BrtLog } from "./brt-log";
+import { BrtServiceWorker } from "./brt-service-worker";
 export interface BrtFeedback {
+    date: string;
     apiKey?: string;
     canvas?: string;
     url?: string;
