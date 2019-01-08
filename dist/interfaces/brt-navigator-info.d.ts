@@ -7,7 +7,6 @@ export interface BrtNavigatorInfo {
     userAgent: string;
     platform: string;
     language: string;
-    doNotTrack: string;
     privateMode: boolean;
     permissions: BrtPermissions;
     network: BrtNetwork;
