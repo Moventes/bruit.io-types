@@ -13,4 +13,5 @@ var BrtToolId;
     BrtToolId["SLACK"] = "slack";
     BrtToolId["ASANA"] = "asana";
     BrtToolId["BASECAMP"] = "basecamp";
+    BrtToolId["ZENDESK"] = "zendesk";
 })(BrtToolId = exports.BrtToolId || (exports.BrtToolId = {}));

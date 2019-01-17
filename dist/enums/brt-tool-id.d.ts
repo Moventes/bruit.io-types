@@ -9,5 +9,6 @@ export declare enum BrtToolId {
     ZOHOBT = "zohobt",
     SLACK = "slack",
     ASANA = "asana",
-    BASECAMP = "basecamp"
+    BASECAMP = "basecamp",
+    ZENDESK = "zendesk"
 }

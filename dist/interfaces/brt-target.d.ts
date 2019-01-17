@@ -4,8 +4,10 @@ export interface BrtTarget {
     toolId: BrtToolId;
     toolType: BrtToolType;
     apiAuthHeader?: string;
-    apiEndPoint?: string;
     email?: string;
     labels?: Array<string>;
+    apiEndPoint?: string;
     attachmentsEndPoint?: string;
+    incomingWebhook?: string;
+    channelId?: string;
 }
