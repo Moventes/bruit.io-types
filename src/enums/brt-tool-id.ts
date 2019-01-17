@@ -10,4 +10,5 @@ export enum BrtToolId {
   SLACK = 'slack',
   ASANA = 'asana',
   BASECAMP = 'basecamp',
+  ZENDESK = 'zendesk',
 }
