@@ -5,8 +5,12 @@ export interface BrtTarget {
   toolId: BrtToolId;
   toolType: BrtToolType;
   apiAuthHeader?: string;
-  apiEndPoint?: string;
   email?: string;
   labels?: Array<string>;
+  // GITHUB
+  apiEndPoint?: string;
   attachmentsEndPoint?: string;
+  // SLACK
+  incomingWebhook?: string;
+  channelId?: string;
 }
