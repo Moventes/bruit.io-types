@@ -13,4 +13,6 @@ export interface BrtTarget {
   // SLACK
   incomingWebhook?: string;
   channelId?: string;
+  // ZENDESK
+  groupId?: string;
 }
