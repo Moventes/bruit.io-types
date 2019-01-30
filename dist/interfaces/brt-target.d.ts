@@ -10,4 +10,5 @@ export interface BrtTarget {
     attachmentsEndPoint?: string;
     incomingWebhook?: string;
     channelId?: string;
+    groupId?: string;
 }

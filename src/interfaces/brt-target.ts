@@ -7,7 +7,7 @@ export interface BrtTarget {
   apiAuthHeader?: string;
   email?: string;
   labels?: Array<string>;
-  // GITHUB
+  // GITHUB & ZENDESK
   apiEndPoint?: string;
   attachmentsEndPoint?: string;
   // SLACK
