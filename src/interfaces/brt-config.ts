@@ -13,7 +13,7 @@ export interface BrtConfig {
   apiUrl?: string;
 
   screenshot?: {
-    width?: number,
+    desiredWidth?: number,
     imageType?: string,
     compression?: number
   }
