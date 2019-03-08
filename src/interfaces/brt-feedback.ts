@@ -8,7 +8,7 @@ import { BrtServiceWorker } from "./brt-service-worker";
 export interface BrtFeedback {
   date: string;
   apiKey?: string;
-  canvas?: string;
+  canvas?: Blob;
   url?: string;
   cookies?: BrtCookies;
   navigator?: BrtNavigatorInfo;
