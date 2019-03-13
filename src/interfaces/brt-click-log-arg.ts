@@ -1,4 +1,4 @@
 export interface BrtClickLogArg {
   xpath: string,
-  dom: string,
+  partialDom: string,
 }
