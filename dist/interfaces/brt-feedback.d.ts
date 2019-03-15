@@ -9,6 +9,7 @@ export interface BrtFeedback {
     apiKey?: string;
     canvas?: string | Blob;
     url?: string;
+    version?: string;
     cookies?: BrtCookies;
     navigator?: BrtNavigatorInfo;
     display?: BrtScreenInfo;
