@@ -10,7 +10,8 @@ export interface BrtConfig {
     durationBeforeClosing?: number;
     apiUrl?: string;
     screenshot?: {
-        desiredWidth?: number;
+        maxWidth?: number;
+        maxHeight?: number;
         imageType?: string;
         compression?: number;
     };
