@@ -1,6 +1,6 @@
 {
   "name": "@bruit/types",
-  "version": "0.2.25-3",
+  "version": "0.2.25",
   "description": "Bruit.io typings",
   "private": false,
   "types": "dist/index.d.ts",
