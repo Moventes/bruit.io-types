@@ -9,6 +9,7 @@ export interface BrtConfig {
     closeModalOnSubmit?: boolean;
     durationBeforeClosing?: number;
     apiUrl?: string;
+    elementToRenderSelector?: string;
     screenshot?: {
         maxWidth?: number;
         maxHeight?: number;
