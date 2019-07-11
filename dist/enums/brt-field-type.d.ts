@@ -3,5 +3,6 @@ export declare enum BrtFieldType {
     TEXTAREA = "textarea",
     EMAIL = "email",
     CHECKBOX = "checkbox",
-    RATING = "rating"
+    RATING = "rating",
+    SELECT = "select"
 }

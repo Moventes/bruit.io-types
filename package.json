@@ -1,12 +1,13 @@
 {
   "name": "@bruit/types",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "Bruit.io typings",
   "private": false,
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "prepublishOnly": "tsc"
   },
   "repository": {
     "type": "git",
