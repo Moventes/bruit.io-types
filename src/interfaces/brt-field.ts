@@ -11,6 +11,7 @@ export interface BrtField {
     | 'text'
     | 'rating'
     | 'select';
+  options?: Array<string>;
   required?: boolean;
   value?: any;
   max?: number;
