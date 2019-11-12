@@ -3,6 +3,7 @@ export interface BrtField {
     id?: string;
     label: string;
     type: BrtFieldType | 'checkbox' | 'textarea' | 'email' | 'text' | 'rating' | 'select';
+    options?: Array<string>;
     required?: boolean;
     value?: any;
     max?: number;
