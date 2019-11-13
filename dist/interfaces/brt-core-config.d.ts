@@ -1,6 +1,7 @@
-import { BrtLogConfig } from './brt-log-config';
+import { BrtLogCacheLength } from './brt-log-cache-length';
 export interface BrtCoreConfig {
     apiKey?: string;
     apiUrl?: string;
-    log?: BrtLogConfig;
+    logCacheLength?: BrtLogCacheLength;
+    addQueryParamsToLog?: boolean;
 }
