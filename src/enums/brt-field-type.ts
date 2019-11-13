@@ -3,7 +3,8 @@ export enum BrtFieldType {
   TEXTAREA = 'textarea',
   EMAIL = 'email',
   CHECKBOX = 'checkbox',
-  RATING = 'rating'
+  RATING = 'rating',
+  SELECT = 'select'
 }
 
 // impact brtField interface if you edit this enum

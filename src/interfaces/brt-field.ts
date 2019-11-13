@@ -7,4 +7,5 @@ export interface BrtField {
   required?: boolean;
   value?: any;
   max?: number;
+  options?: string[];
 }
