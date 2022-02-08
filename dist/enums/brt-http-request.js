@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.BrtHttpRequest = void 0;
 var BrtHttpRequest;
 (function (BrtHttpRequest) {
     BrtHttpRequest["GET"] = "GET";

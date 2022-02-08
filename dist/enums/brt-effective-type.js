@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.BrtEffectiveType = void 0;
 var BrtEffectiveType;
 (function (BrtEffectiveType) {
     BrtEffectiveType["EFFECTIVE_S2G"] = "slow-2g";

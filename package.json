@@ -27,10 +27,10 @@
   },
   "homepage": "https://github.com/Moventes/bruit.io-types#readme",
   "dependencies": {
-    "@firebase/app-types": "0.3.2",
-    "@firebase/firestore-types": "0.7.0"
+    "@firebase/app-types": "0.7.0",
+    "@firebase/firestore-types": "2.5.0"
   },
   "devDependencies": {
-    "typescript": "3.1.6"
+    "typescript": "4.5.5"
   }
 }

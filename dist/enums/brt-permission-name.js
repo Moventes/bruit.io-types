@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.BrtPermissionName = void 0;
 var BrtPermissionName;
 (function (BrtPermissionName) {
     BrtPermissionName["ACCELEROMETER"] = "accelerometer";

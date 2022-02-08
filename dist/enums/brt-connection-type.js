@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.BrtConnectionType = void 0;
 var BrtConnectionType;
 (function (BrtConnectionType) {
     BrtConnectionType["BLUETOOTH"] = "bluetooth";
