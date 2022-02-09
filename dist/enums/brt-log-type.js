@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.BrtLogType = void 0;
 var BrtLogType;
 (function (BrtLogType) {
     BrtLogType["LOG"] = "log";

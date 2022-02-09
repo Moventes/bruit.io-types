@@ -1,5 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
+exports.BrtFieldType = void 0;
 var BrtFieldType;
 (function (BrtFieldType) {
     BrtFieldType["TEXT"] = "text";
